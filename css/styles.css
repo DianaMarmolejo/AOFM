@@ -85,12 +85,12 @@ padding: 50px 0 20px;
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 300px;
+  bottom: 200px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 250px;
+  right: 80px;
   top: 200px;
 }
 
@@ -117,3 +117,69 @@ padding: 50px 0 20px;
   color: green;
 
 }
+
+
+.office-cleaning {
+  width: 150px;
+  border-radius: 25px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+
+  .window-cleaning {
+    width: 150px;
+    border-radius: 25px;
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+
+    .disinfection {
+      width: 150px;
+      border-radius: 25px;
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+
+      .carpet-cleaning {
+        width: 150px;
+        border-radius: 25px;
+          background-color: #4CAF50;
+          border: none;
+          color: white;
+          padding: 15px 32px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-family: 'Montserrat', sans-serif;
+          font-size: 16px;
+          margin: 4px 2px;
+          cursor: pointer;
+        }
